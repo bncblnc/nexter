@@ -1,4 +1,4 @@
-<div align="center"><img  alt="logo" height="100"  src="img/logo.png"></div>
+<div align="center"><img  alt="logo" height="70"  src="img/logo.png"></div>
 <br>
 <div>
     <p> Projeto de uma landing page responsiva com CSS grid. </p>
